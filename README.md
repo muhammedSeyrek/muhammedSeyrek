@@ -14,5 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammedseyrek&show_icons=true&locale=en" alt="muhammedseyrek" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammedseyrek&" alt="muhammedseyrek" /></p>
-
-![snake gif](https://github.com/muhammedSeyrek/muhammedSeyrek/blob/output/github-contribution-grid-snake.gif)
