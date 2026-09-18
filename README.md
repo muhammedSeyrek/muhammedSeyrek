@@ -49,16 +49,8 @@
 
 ---
 
-### GitHub Stats
+### At a Glance
 
 <p align="center">
-  <a href="https://github.com/muhammedSeyrek">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=muhammedSeyrek&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&title_color=1A5B7A&icon_color=E8743B&text_color=1c252b&bg_color=ffffff" alt="GitHub stats"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/muhammedSeyrek">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedSeyrek&layout=compact&hide_border=true&langs_count=8&title_color=1A5B7A&text_color=1c252b&bg_color=ffffff" alt="Top languages"/>
-  </a>
+  <img src="./assets/focus-card.svg" alt="Current focus: AI-native security systems" width="820"/>
 </p>
