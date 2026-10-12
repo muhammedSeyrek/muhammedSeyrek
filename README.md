@@ -26,6 +26,7 @@
   [`DOI`](https://doi.org/10.30855/gmbd.070526A09) · [`DergiPark`](https://dergipark.org.tr/en/pub/gmbd/article/1985574)
 - **PA-PR: A Priority-Aware Page Replacement Algorithm** — *Zenodo*, 2026
   [`DOI`](https://doi.org/10.5281/zenodo.19445857)
+- **Evaluation of Large Language Models for Cybersecurity Incident Triage: A Study on Identity and Access Management** — *11th International Trakya Scientific Research Congress (ISARC), Edirne, 2026 · Conference Paper*
 - **Deepfake Technology: On the Brink of a Digital Identity Crisis** — *TURKWAI 2026 · Conference Paper*
   [`Program`](https://turkwai.manas.edu.kg/page/view?slug=program)
 
