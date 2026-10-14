@@ -22,6 +22,8 @@
 
 ### Publications &amp; Research
 
+- **Memory Safety and Network Communication in Programming Languages: A Comparative and Empirical Analysis of Rust, Go, Haskell and Other Modern Languages** — *Karadeniz Journal of Science*, 16(4), 2026 · Corresponding Author · Peer-Reviewed (TR Index)
+  [`DOI`](https://doi.org/10.31466/kfbd.1976620) · [`DergiPark`](https://dergipark.org.tr/en/pub/kfbd/article/1976620)
 - **Deepfake Technology and the Erosion of Digital Trust: A Multi-Layered Defence Framework** — *Gazi Journal of Engineering Sciences*, 12(2), 2026 · Primary Author
   [`DOI`](https://doi.org/10.30855/gmbd.070526A09) · [`DergiPark`](https://dergipark.org.tr/en/pub/gmbd/article/1985574)
 - **PA-PR: A Priority-Aware Page Replacement Algorithm** — *Zenodo*, 2026
